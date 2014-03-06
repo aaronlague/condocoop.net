@@ -1,0 +1,35 @@
+html { margin-top: 0!important; }
+
+.nav-container { margin-top:102px; background-color: #c2f56e; border-radius: 10px 10px 0 0; overflow:hidden; }
+.navbar-nav > li { padding-right:45px; padding-top:10px; padding-bottom:10px; font-family: "century gothic"; text-transform: uppercase;  color: #754c24; font-size: 14px!important;}
+.navbar-nav > li > a { font-family: "century gothic"; text-transform: uppercase;  color: #754c24; font-size: 14px!important; font-weight: normal; line-height: inherit; }
+.navbar-nav > li > a:hover { text-decoration: underline;}
+.nav > li > a { padding: 0;}
+.logoContainer { padding-top:51px; }
+
+.topSection { background-color: #188a00; }
+
+.imageContainer { padding-top: 31px; padding-bottom:32px; padding-left:0px!important; }
+.contentContainer { padding-top: 31px; padding-bottom:32px; font-family: "century gothic"; color: #fff; }
+.contentContainer img { float: left; margin-right: 15px; }
+.contentContainer h1 { font-size: 18px; }
+.contentContainer p { font-size: 12px; text-align: justify; }
+
+.mainContent { margin-bottom: 30px; }
+.mainContent .row .leftContent h1, .mainContent .row .rightContent h1 { font-size: 18px; }
+.mainContent .row .leftContent p, .mainContent .row .rightContent p { font-size: 14px; line-height: 18px; text-align: justify; }
+
+.mainContent .row .rightContent h2 { font-size: 16px; margin-top:20px; margin-bottom:10px; }
+
+.mainContent .row .singlePage h1 { font-size: 24px; }
+.mainContent .row .singlePage p { text-align: justify; }
+
+
+.bottomSection { background-color: #754c24; height:80px; }
+.footerNavContainer { padding-top: 30px;}
+.footer-nav { float:left; display: inline; margin: 0; }
+.footer-nav > li { float:left; font-family: "century gothic"; text-transform: uppercase;  color: #fff; font-size: 12px; padding-right: 20px; }
+
+.socialSection { padding-top: 15px;}
+.socialSection p { font-size: 12px; color: #fff; font-family: "century gothic"; margin: 0; padding: 0;  }
+.socialSection span { font-size: 20px; color: #b5d001; padding-right: 15px; }
